@@ -1,7 +1,7 @@
 {
-  "id": "10be5691-f4bc-423d-83e6-bc540d544a08",
-  "name": "UploadToSharePoint",
-  "publisher": "Default publisher",
+  "id": "bf9871f1-cafb-499c-a0b4-891b00e43c57",
+  "name": "ObjectOrientedAL",
+  "publisher": "Default Publisher",
   "version": "1.0.0.0",
   "brief": "",
   "description": "",
@@ -10,17 +10,10 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [
-    {
-      "id": "23ebd065-b289-4a68-85e3-b8410e360157",
-      "name": "SharePoint Connector",
-      "publisher": "hougaard.com",
-      "version": "3.0.0.0"
-    }
-  ],
+  "dependencies": [],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "22.0.0.0",
+  "application": "25.0.0.0",
   "idRanges": [
     {
       "from": 50100,
@@ -32,7 +25,7 @@
     "allowDownloadingSource": true,
     "includeSourceInSymbolFile": true
   },
-  "runtime": "11.0",
+  "runtime": "14.0",
   "features": [
     "NoImplicitWith"
   ]

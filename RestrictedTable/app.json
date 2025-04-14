@@ -1,7 +1,7 @@
 {
-  "id": "10be5691-f4bc-423d-83e6-bc540d544a08",
-  "name": "UploadToSharePoint",
-  "publisher": "Default publisher",
+  "id": "178206f3-f105-43b0-a441-d1187a8b0ecb",
+  "name": "RestrictedTable",
+  "publisher": "Default Publisher",
   "version": "1.0.0.0",
   "brief": "",
   "description": "",
@@ -12,15 +12,15 @@
   "logo": "",
   "dependencies": [
     {
-      "id": "23ebd065-b289-4a68-85e3-b8410e360157",
-      "name": "SharePoint Connector",
-      "publisher": "hougaard.com",
-      "version": "3.0.0.0"
+      "id": "ec255f57-31d0-4ca2-b751-f2fa7c745abb",
+      "publisher": "Microsoft",
+      "name": "Shopify Connector",
+      "version": "25.2.27733.28023"
     }
   ],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "22.0.0.0",
+  "application": "25.0.0.0",
   "idRanges": [
     {
       "from": 50100,
@@ -32,7 +32,7 @@
     "allowDownloadingSource": true,
     "includeSourceInSymbolFile": true
   },
-  "runtime": "11.0",
+  "runtime": "14.0",
   "features": [
     "NoImplicitWith"
   ]
