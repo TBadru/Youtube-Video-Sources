@@ -1,6 +1,6 @@
 {
-  "id": "96c42ecc-193d-463b-8d3d-ac70633ac882",
-  "name": "LineBreaks",
+  "id": "297fc6ab-b787-4509-97c2-4b24dc47978e",
+  "name": "ColorCodingGeneralJournal",
   "publisher": "Default Publisher",
   "version": "1.0.0.0",
   "brief": "",
@@ -16,7 +16,7 @@
   "application": "26.0.0.0",
   "idRanges": [
     {
-      "from": 50100,
+      "from": 50130,
       "to": 50149
     }
   ],
